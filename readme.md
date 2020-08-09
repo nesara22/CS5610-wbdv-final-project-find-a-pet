@@ -2,11 +2,9 @@
 
 # Steps to run this Angular project locally:
 
-1. clone server from - https://github.ccs.neu.edu/navyak/CS5610-webdev-spring-Project--server
-and run: `WddvProjectApplication` present under src. 
+1. clone server from - `server` folder
 
-2. clone client from - https://github.ccs.neu.edu/nesaramadhav/Wbdv_5610_Angular_FinalProject_client
-and run it using the command: `ng serve`
+2. clone client from - `client` folder and run it using the command: `ng serve`
 
 3. open on browser: http://localhost:4200/
 The app will automatically reload if you change any of the source files.
